@@ -60,8 +60,8 @@ main{
     height: 33px;
     box-sizing: border-box;
     border-radius: 2px;
-    background-color: #000;
-    color: #fff;
+    background-color: #000 !important;
+    color: #fff !important;
     font-size: 1.2rem;
     margin-top: 1rem;
     margin-bottom: 1rem;
